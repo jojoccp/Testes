@@ -3,12 +3,10 @@ public class URLS {
 
     public static class URLValidation {
 
-        String[] urls = {"urlum", "urldois" , "urltres", "urlquatro", "urlcinco", "urlseis"};
+        String[] urls = {"urlum", "urldois", "urltres", "urlquatro", "urlcinco"};
 
 
 
-
-    }
 
 
     public static void main(String[] args) {
